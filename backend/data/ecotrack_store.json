@@ -1,0 +1,18 @@
+{
+  "users": {
+    "demo-user": {
+      "settings": {
+        "name": "Eco Learner",
+        "daily_budget": 8.0,
+        "country": "India",
+        "avatar": "",
+        "theme": "light",
+        "notifications": true,
+        "language": "English",
+        "weekly_goal": "Stay under budget 5 days this week"
+      },
+      "logs": {},
+      "badges": []
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ecotrack-d6f53",
+  "private_key_id": "89a922c427f7164c8cbf9ffb53b6a2f4831e9fbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/ZXpTDrJ+vj9h\n6o3CXKOU6qAUMmKNzQPMP0pT5w1klv+oBp8mPPaS2KjgdagWIiSImp1KrVcbPrxC\nFM5lfgx9NMYG+QCAX/rdlmXOgN6TeL3Qns+YMARevdnDMSanfJX/d+yk+F8kZpZU\n+HTrr3uG745w14ZUM9qe0KO1bfiWxcKCcTW0Rpi8VHE/Ve3tgv2sItWVokQIPwqz\n5PuP8jORnFZab1fZkP4REwNEsdT7DdAzQ6tO8uEqmcsS/50C44LbcEjzz8B0DrEU\np1vDg9KwLe31W/2WsyzV8vNM0HoYrkZqkvjaxgS6W1WuOOqalG6HszWEbYKyukcy\ni+9R5FR3AgMBAAECggEADhWsdmd2FATYETj7jNQLmnsLPX4Mg2oU33dadulhf1RS\nJM4bJB5t+GLgepqHiUMJJ5+JKuR6rOyYjTX1KMIP4gVIlV0szKwQTM8AJIqWcCL9\nUb7kgMr3zcKjpc0vwdK8DxXtYKG023uyw50zekY3QITPswoi2BhAySZXBcdXLD3p\ngZPkLW5mfdZSZpadC/cDUNqBlSmbDcgpzyajuRg4LL0xqDqIX5eQ0FtH1AhFuLgw\ny1HKxOM7uNfmjYNOgYA/TZHZ8+v5RsDMEVi1TAOxv5aKqV+nCnAqYCaVcDHpcPod\nQhxOyWWIRE6i9DQ/8mCX7Is/+CnPvNCJX5ejjK26cQKBgQDtqqfe6NQ5XT7no3An\n/bbCg5gq8jXfTCyJRCgW9V5eaLkvBIPCyp8JNZW6HpTDbi68Q4EKllIB2P8Dw23J\nb1n9hdpp5UPpuufHFnsqi+4qMrayg+5BhlThw/E3eQb8mj7n06om+KjWB5JH8/cG\nufClDr/Kb5oCIehZGFZH5b5UEwKBgQDOKRitNFNmASwS5HAEGI+bqsUYrsMd3zYM\nm/vX5lEYZQI8+x695y4Qt/DzUjqzcBBHMlBvUdIT/hMoA2/7HFydKrgv5qIRu3Dz\nWUhP90LipDiKaUI6f6BN5hF9IQBqrVx1yN8MOX1tBjPJOrwjhTn9pNxq4QJjh2ZF\nfQkXETSijQKBgQCMk2Bv7O96brkCch2oyd0L+KJM5K8QwRGmr3W2/rMuzGqccOMu\nmIKxA8zoJaaAYe+q05LEHF2tUhiktTd+6iokVsP11vHwkej+TUHUzKe2tgByXq7S\new5B65AF68RCLUn//aarHnFfB2Nyw87dX6YDO1Id/xztHfk8mbSPGkkVmQKBgQDC\nvQs0QSMuTZkmV2aAV/r/XnZDdIGWrAxQKN/h9wtPccqFc+h8Fe3rmPUfwuL0ML0P\no7VbEfzRKcVKnMSgfQ/23i2SAdfBzD9Lf2DROI2TrPBDvl3zCC+SpeqLOis8mXmn\nQRGAaKXT4HH2eWbSXryCncIfq2AoR/QRW6TEh1oi2QKBgQCL96wIKR0oJbapGxtx\nnZAWMFR9CtuIBFc+//g7ey4dhj+cWisf/r/wKHw8qRxGzOD46RUdoPMph4PRgWYV\nN8OBS9lej3suUeG2UUyZJugzSgfSc2bLKftztEU9Dr4vHcIC1hRfE3jRpGNvHyWO\nU1qHw5ULvNSV5KvzivlJtN/2Mg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@ecotrack-d6f53.iam.gserviceaccount.com",
+  "client_id": "101749492002942333585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40ecotrack-d6f53.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
