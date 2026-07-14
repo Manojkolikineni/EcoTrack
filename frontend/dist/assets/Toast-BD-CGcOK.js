@@ -1,0 +1,1 @@
+import{i as e}from"./index-BDmkOtYu.js";var t=e();function n({message:e,type:n=`success`}){return e?(0,t.jsx)(`div`,{className:`fixed bottom-5 right-5 z-50 max-w-sm rounded-2xl px-4 py-3 text-sm font-bold shadow-soft ring-1 ${n===`error`?`bg-rose-50 text-rose-700 ring-rose-100`:`bg-leaf-50 text-leaf-800 ring-leaf-100`} pointer-events-none`,children:e}):null}export{n as t};
